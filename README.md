@@ -15,7 +15,9 @@ I’m passionate about building intelligent solutions and exploring the world of
 
 <!--
 ## Projects
-Stay tuned for some awesome projects! I’ll be adding them here soon.
+  - My own gitHub
+  - Chess offline with Artificial Inteligence and also online
+  - My own nural Network
 -->
 
 ---
