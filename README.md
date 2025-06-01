@@ -2,7 +2,7 @@
 
 🎓 **Student at Epicode Institute of Technology**  
 🐍 **Python Enthusiast**  
-🚀 Aspiring **Software Engineer** | Focus on **AI & Machine Learning**
+🚀 Aspiring **Software Engineer** | Focus on **AI & Deep learning**
 
 ---
 
