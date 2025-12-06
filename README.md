@@ -6,7 +6,6 @@
 
 ### 💡 Core Skills & Interests
 
-My current focus areas are:
 ![Java](https://img.shields.io/badge/Language-Java-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
