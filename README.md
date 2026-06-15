@@ -1,10 +1,10 @@
-# Hi there, I’m Dandastino
+# Hi, I’m Dandastino :)
 
 ### Education & Focus
 * Student at **Epicode Institute of Technology**.
 * Aspiring **data scientist**
 
-### 💡 Core Skills & Interests
+### Core Skills & Interests
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Area-Data%20Science-9933CC?logo=databricks&logoColor=white)
